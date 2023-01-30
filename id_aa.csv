@@ -1,0 +1,26 @@
+﻿ID,Profile Nos,Profiles,Preference Rank,Screen 75 inch,Screen 85 inch,Resolution 4K = 1,Sony = 1,"Price 
+(low = 0; high =1)"
+2,11,"85, 4K, Sharp, Lo Price",24,0,1,1,0,0
+2,5,"85, 4K, Sony, Lo Price",23,0,1,1,1,0
+2,2,"85, 1K, Sony, Lo Price",22,0,1,0,1,0
+2,8,"85, 1K, Sharp, Lo Price",21,0,1,0,0,0
+2,4,"75, 4K, Sony, Lo Price",20,1,0,1,1,0
+2,10,"75, 4K, Sharp, Lo Price",19,1,0,1,0,0
+2,1,"75, 1K, Sony, Lo Price",18,1,0,0,1,0
+2,7,"75, 1K, Sharp, Lo Price",17,1,0,0,0,0
+2,6,"65, 4K, Sony, Lo Price",16,0,0,1,1,0
+2,12,"65, 4K, Sharp, Lo Price",15,0,0,1,0,0
+2,3,"65, 1K, Sony, Lo Price",14,0,0,0,1,0
+2,9,"65, 1K, Sharp, Lo Price",13,0,0,0,0,0
+2,17,"85, 4K, Sony, Hi Price",12,0,1,1,1,1
+2,23,"85, 4K, Sharp, Hi Price",11,0,1,1,0,1
+2,14,"85, 1K, Sony, Hi Price",10,0,1,0,1,1
+2,20,"85, 1K, Sharp, Hi Price",9,0,1,0,0,1
+2,16,"75, 4K, Sony, Hi Price",8,1,0,1,1,1
+2,22,"75, 4K, Sharp, Hi Price",7,1,0,1,0,1
+2,13,"75, 1K, Sony, Hi Price",6,1,0,0,1,1
+2,19,"75, 1K, Sharp, Hi Price",5,1,0,0,0,1
+2,18,"65, 4K, Sony, Hi Price",4,0,0,1,1,1
+2,24,"65, 4K, Sharp, Hi Price",3,0,0,1,0,1
+2,15,"65, 1K, Sony, Hi Price",2,0,0,0,1,1
+2,21,"65, 1K, Sharp, Hi Price",1,0,0,0,0,1
